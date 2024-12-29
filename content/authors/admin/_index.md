@@ -59,31 +59,21 @@ education:
     date_end: 2027-06-31
     summary: |
       Thesis on _Mechanics- and machine learning-driven customization of multifunctional metamaterials_. Supervised by [Prof Qiang Han](https://www2.scut.edu.cn/jtxy/2023/0430/c35044a500284/page.htm). 
-    # button:
-    #   text: 'Read Thesis'
+    button:
+      text: ''
     #   url: 'https://example.com'
   - area: MEng Solid mechanics
     institution: South China University of Technology
     date_start: 2021-09-01
     date_end: 2023-06-31
-    # summary: |
-    #   GPA: 3.8/4.0
-
-    #   Courses included:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: |
+      ''
   - area: BSc Mechanical Design & Manufacture and Their Automation
     institution: Southwest Jiaotong University
     date_start: 2017-09-01
     date_end: 2021-06-31
-    # summary: |
-    #   GPA: 3.4/4.0
-      
-    #   Courses included:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: |
+      ''
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
@@ -182,6 +172,6 @@ awards:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 # ---
 
-## About Me
+# About Me
 
 Sihao Han is currently a PhD candidate in Solid Mechanics at South China University of Technology. His research focuses on the wave characteristics and impact behavior of elastic and mechanical metamaterials, with a particular interest in multifunctional metamaterials.
