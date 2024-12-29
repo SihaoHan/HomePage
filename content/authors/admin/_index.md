@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sihao Han  韩思豪
+title: Sihao Han
 
 # Name pronunciation (optional)
 # name_pronunciation: Sihao Han
@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:ct_hansihao@mail.scut.edu.cn'
     label: E-mail Me
-  - icon: "researchgate"
+  - icon: "custom/researchgate"
     url: https://www.researchgate.net/profile/Sihao-Han-2
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=wodqodIAAAAJ&hl
@@ -180,4 +180,4 @@ awards:
 
 ## About Me
 
-Sihao Han is currently a PhD candidate in Solid Mechanics at South China University of Technology. His research focuses on the wave characteristics and impact behavior of elastic and mechanical metamaterials, with a particular interest in multifunctional metamaterials.
+Sihao Han (韩思豪) is currently a PhD candidate in Solid Mechanics at South China University of Technology. His research focuses on the wave characteristics and impact behavior of elastic and mechanical metamaterials, with a particular interest in multifunctional metamaterials.
