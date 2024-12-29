@@ -48,36 +48,36 @@ interests:
 
 education:
   - area: PhD Solid mechanics
-    institution: Stanford University
-    date_start: 2023-09-01
+    institution: South China University of Technology
+    date_start: 2021-09-01
     date_end: 2027-06-20
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Solid mechanics
-    institution: Massachusetts Institute of Technology
-    date_start: 2021-09-01
-    date_end: 2023-06-20
-    summary: |
-      GPA: 3.8/4.0
+      Thesis on _Mechanics- and machine learning-driven customization of multifunctional metamaterials_. Supervised by [Prof Qiang Han](https://www2.scut.edu.cn/jtxy/2023/0430/c35044a500284/page.htm). Successive postgraduate and doctoral programs of study.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  # - area: MEng Solid mechanics
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2021-09-01
+  #   date_end: 2023-06-20
+  #   summary: |
+  #     GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Mechanical Design & Manufacture and Their Automation
-    institution: Massachusetts Institute of Technology
+    institution: Southwest Jiaotong University
     date_start: 2017-09-01
     date_end: 2021-06-20
-    summary: |
-      GPA: 3.4/4.0
+    # summary: |
+    #   GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
