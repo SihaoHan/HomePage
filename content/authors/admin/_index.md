@@ -11,7 +11,7 @@ last_name: Han
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ♥️
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,10 +31,10 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'ct_hansihao@mail.scut.edu.cn'
+    url: 'mailto:ct_hansihao@mail.scut.edu.cn'
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/SihaoHan
+  - icon: assets/media/icons/researchgate
+    url: https://www.researchgate.net/profile/Sihao-Han-2
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=wodqodIAAAAJ&hl
   - icon: academicons/orcid
@@ -44,7 +44,8 @@ interests:
   - Mechanical metamaterial
   - Elastic waves
   - Impact mechanics
-#  - AI4Science  
+  - Machine learning for metamaterials  
+  - Architected structures
 
 education:
   - area: PhD Solid mechanics
@@ -105,21 +106,21 @@ education:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming and Mathematical Modeling
     items:
       - name: Python
-        description: ''
-        percent: 80
+        # description: ''
+        # percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
+      - name: Matlab
+        # description: ''
+        # percent: 100
+        icon: code-bracket
+      - name: LaTeX
+        # description: ''
+        # percent: 40
+        icon: code-bracket
+  - name: Finite Element Modeling and Analysis
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
