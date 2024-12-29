@@ -11,7 +11,7 @@ last_name: Han
 
 # Status emoji
 status:
-  icon: ♥️
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -44,7 +44,7 @@ interests:
   - Mechanical metamaterial
   - Elastic waves
   - Impact mechanics
-  # - AI4Science  
+  - AI4Science  
 
 education:
   - area: Ph.D. Solid mechanics
