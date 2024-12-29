@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:ct_hansihao@mail.scut.edu.cn'
     label: E-mail Me
-  - icon: researchgate
+  - icon: researchgate.svg
     url: https://www.researchgate.net/profile/Sihao-Han-2
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=wodqodIAAAAJ&hl
