@@ -3,15 +3,15 @@
 title: 韩思豪
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+name_pronunciation: Sihao Han
 
 # Full name (for SEO)
 first_name: Sihao
 last_name: Han
 
 # Status emoji
-status:
-  icon: ♥️
+# status:
+#   icon: ♥️
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:ct_hansihao@mail.scut.edu.cn'
     label: E-mail Me
-  - icon: researchgate.svg
+  - icon: researchgate
     url: https://www.researchgate.net/profile/Sihao-Han-2
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=wodqodIAAAAJ&hl
@@ -41,11 +41,12 @@ profiles:
     url: https://orcid.org/0000-0002-1386-0750
 
 interests:
-  - Mechanical metamaterial
   - Elastic waves
   - Impact mechanics
+  - Architected structures  
+  - Mechanical metamaterial
   - Machine learning for metamaterials  
-  - Architected structures
+
 
 education:
   - area: PhD Solid mechanics
@@ -124,24 +125,24 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
+      - name: Abaqus
+        # description: ''
+        # percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Comsol
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
+      - name: SolidWorks
+        # description: ''
+        # percent: 80
         icon: camera
 
-languages:
-  - name: English
-    # percent: 100
-  - name: Chinese
-    # percent: 75
+# languages:
+#   - name: English
+#     percent: 75
+#   - name: Chinese
+#     percent: 100
   # - name: Portuguese
   #   percent: 25
 
