@@ -33,14 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'ct_hansihao@mail.scut.edu.cn'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/SihaoHan
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=wodqodIAAAAJ&hl
   - icon: academicons/orcid
@@ -50,7 +44,7 @@ interests:
   - Mechanical metamaterial
   - Elastic waves
   - Impact mechanics
-  - AI4Science  
+  # - AI4Science  
 
 education:
   - area: Ph.D. Solid mechanics
@@ -59,21 +53,21 @@ education:
     date_end: 2027-06-31
     summary: |
       Thesis on _Mechanics- and machine learning-driven customization of multifunctional metamaterials_. Supervised by [Prof Qiang Han](https://www2.scut.edu.cn/jtxy/2023/0430/c35044a500284/page.htm). 
-    button:
-      text: ''
+    # button:
+    #   text: ''
     #   url: 'https://example.com'
   - area: MEng Solid mechanics
     institution: South China University of Technology
     date_start: 2021-09-01
     date_end: 2023-06-31
-    summary: |
-      ''
+    # summary: |
+    #   ''
   - area: BSc Mechanical Design & Manufacture and Their Automation
     institution: Southwest Jiaotong University
     date_start: 2017-09-01
     date_end: 2021-06-31
-    summary: |
-      ''
+    # summary: |
+    #   ''
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
@@ -104,15 +98,15 @@ skills:
   - name: Programming and Mathematical Modeling
     items:
       - name: Python
-        description: ''
+        # description: ''
         # percent: 80
         icon: code-bracket
       - name: Matlab
-        description: ''
+        # description: ''
         # percent: 100
         icon: chart-bar
       - name: LaTeX
-        description: ''
+        # description: ''
         # percent: 40
         icon: circle-stack
   # - name: Finite element modeling and analysis
