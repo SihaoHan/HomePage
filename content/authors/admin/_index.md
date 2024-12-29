@@ -160,7 +160,7 @@ awards:
     #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: President Scholarship
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2024-10-01'
+    date: '2023-10-01'
     awarder: South China University of Technology
     # icon: edx
   #   summary: |
