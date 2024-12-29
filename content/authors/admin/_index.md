@@ -2,7 +2,7 @@
 # Display name
 title: 韩思豪
 
-Name pronunciation (optional)
+# Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
