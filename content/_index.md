@@ -1,12 +1,12 @@
 ---
 # Leave the homepage title empty to use the site title
 title: "SihaoHan"
-date: 2022-10-24
+date: 2024-12-29
 type: landing
 
 design:
   # Default section spacing
-  spacing: "3rem"
+  spacing: "4rem"
 
 sections:
   - block: resume-biography-3
