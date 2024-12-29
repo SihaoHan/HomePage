@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 韩思豪
+title: 韩思豪韩思豪韩思豪
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
