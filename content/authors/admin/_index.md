@@ -50,7 +50,7 @@ education:
   - area: PhD Solid mechanics
     institution: Stanford University
     date_start: 2023-09-01
-    date_end: 2027-06-31
+    date_end: 2027-06-20
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -59,7 +59,7 @@ education:
   - area: MEng Solid mechanics
     institution: Massachusetts Institute of Technology
     date_start: 2021-09-01
-    date_end: 2023-06-31
+    date_end: 2023-06-20
     summary: |
       GPA: 3.8/4.0
 
@@ -70,7 +70,7 @@ education:
   - area: BSc Mechanical Design & Manufacture and Their Automation
     institution: Massachusetts Institute of Technology
     date_start: 2017-09-01
-    date_end: 2021-06-31
+    date_end: 2021-06-20
     summary: |
       GPA: 3.4/4.0
       
