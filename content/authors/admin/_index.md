@@ -53,21 +53,21 @@ education:
     date_end: 2027-06-31
     summary: |
       Thesis on _Mechanics- and machine learning-driven customization of multifunctional metamaterials_. Supervised by [Prof Qiang Han](https://www2.scut.edu.cn/jtxy/2023/0430/c35044a500284/page.htm). 
-    # button:
-    #   text: ''
-    #   url: 'https://example.com'
+    button:
+      text: ''
+      url: ''
   - area: MEng Solid mechanics
     institution: South China University of Technology
     date_start: 2021-09-01
     date_end: 2023-06-31
-    # summary: |
-    #   ''
+    summary: |
+      ''
   - area: BSc Mechanical Design & Manufacture and Their Automation
     institution: Southwest Jiaotong University
     date_start: 2017-09-01
     date_end: 2021-06-31
-    # summary: |
-    #   ''
+    summary: |
+      ''
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
