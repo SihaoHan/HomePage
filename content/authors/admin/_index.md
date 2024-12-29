@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 韩思豪
+title: Sihao Han\\(韩思豪)
 
 # Name pronunciation (optional)
-name_pronunciation: Sihao Han
+# name_pronunciation: Sihao Han
 
 # Full name (for SEO)
 first_name: Sihao
@@ -138,11 +138,11 @@ skills:
         # percent: 80
         icon: camera
 
-# languages:
-#   - name: English
-#     percent: 75
-#   - name: Chinese
-#     percent: 100
+languages:
+  - name: English
+    percent: 75
+  - name: Chinese
+    percent: 100
   # - name: Portuguese
   #   percent: 25
 
