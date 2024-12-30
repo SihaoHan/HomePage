@@ -15,7 +15,7 @@ author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2025-01-01T00:00:00Z'
+date: '2024-12-09T00:00:00Z'
 doi: '10.1016/j.eml.2024.102276'
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +30,7 @@ publication_types: ['article-journal']
 publication: In *Extreme Mechanics Letters*
 publication_short: In *Extreme. Mech. Lett.*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Multifunctional materials attract extensive attention for simultaneously satisfying diverse engineering applications, such as protection against mechanical and vibratory intrusions. Here, the mechanical responses and wave attenuation of multi-functional metamaterials at various elastoplastic are custom-designed. An elegant kiri/origami metamaterial is proposed, offering widely tunable mechanical responses and broadband wave attenuation in ultra low-frequencies. The incomparable compression-twist of kresling origami and the prominent local-resonance of kirigami split-rings promote efficient elastic wave polarization and plastic hinges, providing comprehensive protection from elastic to plastic. Kirigami split-rings highlight a fabrication-friendly approach of forming local resonators. Experiments and analyses confirm the reliability and superiority. Leveraging a machine learning-aided framework, optimal and anticipated individual properties and custom multi-performances are achieved for wave attenuation, energy absorption, plateau fluctuations, deformation triggering forces, and load-bearing/plateau forces under various impact levels. The machine learning-aided framework enables rapid multi-objective prediction and customization end-to-end without requiring prior knowledge. This work holds significant potential for the development and application of multi-functional, multi-physical field and multi-scale metamaterials.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -39,26 +39,26 @@ tags:
   - Large Language Models
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://doi.org/10.1016/j.eml.2024.102276
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: '@SihaoHan'
   focal_point: ''
   preview_only: false
 

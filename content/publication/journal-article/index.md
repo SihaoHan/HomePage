@@ -30,7 +30,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Large Language Models
-featured: true
+featured: false
 
 # links:
 # - name: ""
