@@ -1,18 +1,16 @@
 ---
-title: "Machine learning-aided prediction and customization on mechanical response and wave attenuation of multifunctional kiri/origami metamaterials"
+title: "An example journal article"
 authors:
-  - admin
-  - Chunlei Li*
-  - Qiang Han
-  - Xiaohu Yao  
+- admin
+- Robert Ford
 author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
-date: "2024-12-09T00:00:00Z"
-doi: "10.1016/j.eml.2024.102276"
+- "Equal contribution"
+- "Equal contribution"
+date: "2015-09-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,23 +18,23 @@ publishDate: "2025-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Extreme Mechanics Letters*"
-publication_short: "Extreme. Mech. Lett."
+publication: "*Journal of Source Themes, 1*(1)"
+publication_short: ""
 
-abstract: Multifunctional materials attract extensive attention for simultaneously satisfying diverse engineering applications, such as protection against mechanical and vibratory intrusions. Here, the mechanical responses and wave attenuation of multi-functional metamaterials at various elastoplastic are custom-designed. An elegant kiri/origami metamaterial is proposed, offering widely tunable mechanical responses and broadband wave attenuation in ultra low-frequencies. The incomparable compression-twist of kresling origami and the prominent local-resonance of kirigami split-rings promote efficient elastic wave polarization and plastic hinges, providing comprehensive protection from elastic to plastic. Kirigami split-rings highlight a fabrication-friendly approach of forming local resonators. Experiments and analyses confirm the reliability and superiority. Leveraging a machine learning-aided framework, optimal and anticipated individual properties and custom multi-performances are achieved for wave attenuation, energy absorption, plateau fluctuations, deformation triggering forces, and load-bearing/plateau forces under various impact levels. The machine learning-aided framework enables rapid multi-objective prediction and customization end-to-end without requiring prior knowledge. This work holds significant potential for the development and application of multi-functional, multi-physical field and multi-scale metamaterials.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Source Themes
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1016/j.eml.2024.102276
-url_code: ''
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -47,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '@SihaoHan'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
@@ -56,8 +54,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
