@@ -19,7 +19,7 @@ date: '2024-12-09T00:00:00Z'
 doi: '10.1016/j.eml.2024.102276'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-01-01T00:00:00Z'
+publishDate: '2024-12-09T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -36,7 +36,7 @@ abstract: Multifunctional materials attract extensive attention for simultaneous
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  # - Large Language Models
 
 # Display this page in the Featured widget?
 featured: true
@@ -46,19 +46,19 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://doi.org/10.1016/j.eml.2024.102276
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: '@SihaoHan'
   focal_point: ''
   preview_only: false
 
