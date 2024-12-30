@@ -1,5 +1,5 @@
 ---
-title: 'Machine learning-aided prediction and customization on mechanical response and wave attenuation of multifunctional kiri/origami metamaterials'
+title: 'Machine learning-aided'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
