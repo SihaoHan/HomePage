@@ -27,8 +27,8 @@ publishDate: '2025-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Extreme Mechanics Letters*
-publication_short: In *Extreme. Mech. Lett.*
+publication: In *Hugo Blox Builder Conference*
+publication_short: In *ICW*
 
 abstract: Multifunctional materials attract extensive attention for simultaneously satisfying diverse engineering applications, such as protection against mechanical and vibratory intrusions. Here, the mechanical responses and wave attenuation of multi-functional metamaterials at various elastoplastic are custom-designed. An elegant kiri/origami metamaterial is proposed, offering widely tunable mechanical responses and broadband wave attenuation in ultra low-frequencies. The incomparable compression-twist of kresling origami and the prominent local-resonance of kirigami split-rings promote efficient elastic wave polarization and plastic hinges, providing comprehensive protection from elastic to plastic. Kirigami split-rings highlight a fabrication-friendly approach of forming local resonators. Experiments and analyses confirm the reliability and superiority. Leveraging a machine learning-aided framework, optimal and anticipated individual properties and custom multi-performances are achieved for wave attenuation, energy absorption, plateau fluctuations, deformation triggering forces, and load-bearing/plateau forces under various impact levels. The machine learning-aided framework enables rapid multi-objective prediction and customization end-to-end without requiring prior knowledge. This work holds significant potential for the development and application of multi-functional, multi-physical field and multi-scale metamaterials.
 
