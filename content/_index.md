@@ -35,9 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        This webpage is still under construction, there are many features are not complete. Thanks to HUGO for the open source template.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        If you have any questions, please email me.
+        'ct_hansihao@mail.scut.edu.cn'
         
         Please reach out to collaborate 😃
     design:
