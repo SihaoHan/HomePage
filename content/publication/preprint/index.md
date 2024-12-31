@@ -29,7 +29,7 @@ abstract: Engineering applications concurrently face challenges related to vibra
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+# - Large Language Models
 
 featured: true
 
