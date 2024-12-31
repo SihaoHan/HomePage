@@ -26,7 +26,8 @@ role: Ph.D. Candidate
 organizations:
   - name: South China University of Technology
     url: https://www.scut.edu.cn/
-
+email:
+  - 'mailto:ct_hansihao@mail.scut.edu.cn'
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
