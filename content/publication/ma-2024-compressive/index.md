@@ -3,7 +3,7 @@ title: Compressive response and optimization design of a novel hierarchical re-e
   origami honeycomb metastructure
 authors:
 - Nanfang Ma
-- Sihao Han
+- admin
 - Wenhao Xu
 - Qiang Han
 - Chunlei Li

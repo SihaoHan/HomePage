@@ -2,7 +2,7 @@
 title: Complex dispersion relations and evanescent waves in periodic magneto-electro
   curved phononic crystal plates
 authors:
-- Sihao Han
+- admin
 - Qiang Han
 - Tengjiao Jiang
 - Chunlei Li

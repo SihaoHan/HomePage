@@ -2,7 +2,7 @@
 title: Design and optimization of the dual-functional lattice-origami metamaterials
 authors:
 - Tengjiao Jiang
-- Sihao Han
+- admin
 - Qiang Han
 - Chunlei Li
 date: '2024-01-01'

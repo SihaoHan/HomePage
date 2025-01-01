@@ -2,7 +2,7 @@
 title: Deep-learning-based inverse design of phononic crystals for anticipated wave
   attenuation
 authors:
-- Sihao Han
+- admin
 - Qiang Han
 - Chunlei Li
 date: '2022-01-01'

@@ -4,7 +4,7 @@ title: Rigid--flexible coupling design and reusable impact mitigation of the hie
 authors:
 - Haokai Zheng
 - Yu Sun
-- Sihao Han
+- admin
 - Qiang Han
 - Chunlei Li
 date: '2024-01-01'

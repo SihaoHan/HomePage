@@ -2,7 +2,7 @@
 title: Machine learning-based optimal design of an acoustic black hole metaplate for
   enhanced bandgap and load-bearing capacity
 authors:
-- Sihao Han
+- admin
 - Nanfang Ma
 - Qiang Han
 - Chunlei Li

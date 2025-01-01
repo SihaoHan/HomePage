@@ -3,7 +3,7 @@ title: Hierarchical design and vibration suppression of the hexachiral hybrid ac
   metamaterial
 authors:
 - Shijia Li
-- Sihao Han
+- admin
 - Haokai Zheng
 - Qiang Han
 - Chunlei Li

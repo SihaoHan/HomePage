@@ -4,7 +4,7 @@ title: Parametric electro-mechanical dispersive behaviors of guided waves in the
 authors:
 - Chunlei Li
 - Dongliang Xiao
-- Sihao Han
+- admin
 - Qiang Han
 date: '2023-01-01'
 publishDate: '2024-12-29T13:58:17.997558Z'

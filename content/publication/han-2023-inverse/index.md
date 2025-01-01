@@ -2,7 +2,7 @@
 title: Inverse design of phononic crystals for anticipated wave propagation by integrating
   deep learning and semi-analytical approach
 authors:
-- Sihao Han
+- admin
 - Qiang Han
 - Tengjiao Jiang
 - Chunlei Li

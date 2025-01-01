@@ -1,7 +1,7 @@
 ---
 title: Design and reinforcement-learning optimization of re-entrant cellular metamaterials
 authors:
-- Sihao Han
+- admin
 - Qiang Han
 - Nanfang Ma
 - Chunlei Li

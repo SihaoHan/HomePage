@@ -3,7 +3,7 @@ title: Design and compressive behaviors of the gradient re-entrant origami honey
   metamaterials
 authors:
 - Nanfang Ma
-- Sihao Han
+- admin
 - Qiang Han
 - Chunlei Li
 date: '2024-01-01'

@@ -2,7 +2,7 @@
 title: A novel multi-resonator honeycomb metamaterial with enhanced impact mitigation
 authors:
 - Haokai Zheng
-- Sihao Han
+- admin
 - Shijia Li
 - Qiang Han
 - Chunlei Li
