@@ -182,4 +182,4 @@ awards:
 
 ## About Me
 
-Sihao Han (韩思豪) is currently a PhD candidate in Solid Mechanics at South China University of Technology. His research focuses on the wave characteristics and impact behavior of elastic and mechanical metamaterials, with a particular interest in multifunctional metamaterials.
+Sihao Han (韩思豪) is currently a PhD candidate in Solid Mechanics at South China University of Technology. His research focuses on the wave characteristics and impact behavior of elastic and mechanical metamaterials, with a particular interest in multifunctional metamaterials. Please refer to the Publications sections for more information about my work. If you have any questions, please feel free to email me.

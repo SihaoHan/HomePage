@@ -31,7 +31,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 # - Large Language Models
 
-featured: true
+featured: false
 
 url_pdf: https://doi.org/10.1016/j.compositesa.2024.108298
 url_code: ''
