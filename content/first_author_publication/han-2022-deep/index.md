@@ -8,7 +8,7 @@ authors:
 date: "2022-10-19T00:00:00Z"
 doi: "10.1063/5.0111182"
 
-publishDate: "2022-10-19T00:00:00Z"
+publishDate: '2024-12-29T13:58:17.985367Z'
 publication_types:
 - article-journal
 publication: '*Journal of Applied Physics*'
