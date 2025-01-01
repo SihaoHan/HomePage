@@ -1,6 +1,6 @@
 ---
 title: Featured_publication
-cms_exclude: true
+cms_exclude: false
 
 # View.
 view: citation
