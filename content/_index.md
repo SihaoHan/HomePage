@@ -30,7 +30,9 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+          
+  # - block: markdown
+    block: collection
     content:
       title: '📚 My Research'
       subtitle: ''
@@ -47,8 +49,8 @@ sections:
         Please reach out to collaborate 😃 !!!
     design:
       columns: '1'
-      spacing:
-        padding: [0, '-100px', 0, '-100px']      
+      # spacing:
+      #   padding: [0, '-100px', 0, '-100px']      
 
   # - block: resume-experience
   #   content:
