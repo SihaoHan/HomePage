@@ -181,8 +181,4 @@ awards:
 ---
 
 ## About Me
-Welcome to my personal homepage! I am Sihao Han (韩思豪), currently a PhD candidate in Solid Mechanics at South China University of Technology. My research focuses on the wave characteristics and impact behavior of elastic and mechanical metamaterials, with a particular interest in multifunctional metamaterials. I am using advanced numerical simulation and machine learning to enable multifunctional prediction, optimization, and on-demand customization of advanced materials and structures, in an attempt to push the frontier of combining artificial intelligence and solid mechanics.
-
-I am a student in a successive postgraduate and doctoral program, and expect to receive my PhD in the summer, 2027. My PhD thesis is _Mechanics- and machine learning-driven customization of multifunctional metamaterials_. Supervised by [Prof Qiang Han](https://www2.scut.edu.cn/jtxy/2023/0430/c35044a500284/page.htm) and [A/Prof Chunlei Li](https://www2.scut.edu.cn/jtxy/2023/0430/c35045a500283/page.htm). 
-
-Please refer to the Publications sections for more information about my work. If you have any questions, please feel free to email me.
+Welcome to my personal homepage! I am Sihao Han (韩思豪), currently a PhD candidate in Solid Mechanics at South China University of Technology. My research focuses on the wave characteristics and impact behavior of elastic and mechanical metamaterials, with a particular interest in multifunctional metamaterials. Please refer to the Follow sections for more information about my work. If you have any questions, please feel free to email me.
