@@ -48,7 +48,7 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: [0, 0, 0, 0]      
+        padding: ['20px', '20px', '20px', '20px']      
 
   # - block: resume-experience
   #   content:
