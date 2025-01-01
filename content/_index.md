@@ -49,7 +49,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - first_author_publication
+          - Featured_publication
         featured_only: true
     design:
       view: article-grid
