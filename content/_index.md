@@ -58,12 +58,12 @@ sections:
 
   - block: collection
     content:
-      title: Full Publications
+      title: First Author Publication
       text: ""
       count: 0
       filters:
         folders:
-          - publication
+          - first_author_publication
         exclude_featured: false
     design:
       view: citation
