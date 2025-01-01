@@ -44,6 +44,15 @@ sections:
     design:
       columns: '1'
 
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+
   # - block: collection
   #   # id: papers
   #   content:
@@ -58,6 +67,7 @@ sections:
 
 
   - block: collection
+    id: papers  
     content:
       title: First Author Publications
       text: ""
@@ -121,6 +131,11 @@ sections:
   #     # Reduce spacing
   #     spacing:
   #       padding: [0, 0, 0, 0]
+
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
 
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site

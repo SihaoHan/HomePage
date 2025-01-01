@@ -14,7 +14,7 @@ main:
   #   url: publication/
   #   weight: 30
   - name: Publications
-    url: /#First Author Publications
+    url: /#papers  
     weight: 30
   - name: Experience
     url: experience/
