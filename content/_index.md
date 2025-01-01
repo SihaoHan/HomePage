@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: "SihaoHan"
-date: 2024-12-29
+date: 2025-01-01
 type: landing
 
 design:
@@ -44,14 +44,14 @@ sections:
     design:
       columns: '1'
 
-  - block: resume-experience
-    content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
+  # - block: resume-experience
+  #   content:
+  #     username: admin
+  #   design:
+  #     # Hugo date format
+  #     date_format: 'January 2006'
+  #     # Education or Experience section first?
+  #     is_education_first: false
 
   # - block: collection
   #   # id: papers
