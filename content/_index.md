@@ -31,8 +31,8 @@ sections:
           position: center
           parallax: false
           
-  # - block: markdown
-    block: collection
+  - block: markdown
+    # block: collection
     content:
       title: '📚 My Research'
       subtitle: ''
