@@ -39,8 +39,8 @@ sections:
       text: |-
         <style>
           .custom-block {
-            width: 120vw; /* 超过视口宽度 20% */
-            margin: 0px; /* 设置外边距 */
+            
+            margin: 0 -40px; /* 负外边距扩展超出容器 */
             padding: 60px; /* 设置内边距 */
             background-color: #f9f9f9; /* 背景颜色 */
             border: 1px solid #ddd; /* 添加边框 */
