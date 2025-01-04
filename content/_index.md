@@ -39,6 +39,7 @@ sections:
       text: |-
         <style>
           .custom-block {
+            font-size: 12pt;
             text-align: justify; /* 设置两端对齐 */
             margin: 0 -100px; /* 负外边距扩展超出容器 */
             padding: 20px; /* 设置内边距 */
@@ -46,20 +47,15 @@ sections:
             border: 1px solid #ddd; /* 添加边框 */
             border-radius: 8px; /* 圆角 */
             font-family: Arial, sans-serif; /* 自定义字体 */
-            line-height: 1.6; /* 调整行高 */
+            line-height: 1.4; /* 调整行高 */
           }
         </style>
         <div class="custom-block">
           My research focuses on the wave characteristics and impact behavior of elastic and mechanical metamaterials, with a particular interest in multifunctional metamaterials. I am using advanced numerical simulation and machine learning to enable multi-performance prediction, optimization, and on-demand customization of advanced materials and structures, in an attempt to push the frontier of combining artificial intelligence and solid mechanics. The architected structures I have studied include honeycombs, kiri/origamis, pixelated topologies, and acoustic black holes. To date, I have published eight journal papers as the (co-)first author, with an additional two currently under review.
 
-          I am a student in a successive postgraduate and doctoral program, and expect to receive my PhD in the summer, 2027. I have earned my bachelor's degree from Southwest Jiaotong University in 2021. My PhD thesis is **_Mechanics- and machine learning-driven customization of multifunctional metamaterials_**. Supervised by [Prof Qiang Han](https://www2.scut.edu.cn/jtxy/2023/0430/c35044a500284/page.htm) and [A/Prof Chunlei Li](https://www2.scut.edu.cn/jtxy/2023/0430/c35045a500283/page.htm). 
+          I have earned my bachelor's degree from Southwest Jiaotong University in 2021. I am a student in a successive postgraduate and doctoral program, and expect to receive my PhD in the summer of 2027.  My PhD thesis is **_Mechanics- and machine learning-driven customization of multifunctional metamaterials_**. Supervised by [Prof Qiang Han](https://www2.scut.edu.cn/jtxy/2023/0430/c35044a500284/page.htm) and [A/Prof Chunlei Li](https://www2.scut.edu.cn/jtxy/2023/0430/c35045a500283/page.htm). 
 
-          This webpage is still under construction, there are many features are not complete. Thanks to HUGO for the open source template.
-
-          If you have any questions, please email me.
-          'ct_hansihao@mail.scut.edu.cn'
-          
-          Please reach out to collaborate 😃 !!!
+          If you have any questions, please email me (ct_hansihao@mail.scut.edu.cn). Please reach out to collaborate 😃 !!!
         </div>
     design:
       columns: '1'
