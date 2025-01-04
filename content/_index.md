@@ -51,11 +51,11 @@ sections:
           }
         </style>
         <div class="custom-block">
-          My research focuses on the wave characteristics and impact behavior of elastic and mechanical metamaterials, with a particular interest in multifunctional metamaterials. I am using advanced numerical simulation and machine learning to enable multi-performance prediction, optimization, and on-demand customization of advanced materials and structures, in an attempt to push the frontier of combining artificial intelligence and solid mechanics. The architected structures I have studied include honeycombs, kiri/origamis, pixelated topologies, and acoustic black holes. To date, I have published eight journal papers as the (co-)first author, with an additional two currently under review.
+          My research focuses on the wave characteristics and impact behavior of elastic and mechanical metamaterials, with a particular interest in multifunctional metamaterials. I am using advanced numerical simulation and machine learning techniques to enable multi-performance prediction, optimization, and on-demand customization of advanced materials and structures, in an attempt to push the frontier of combining artificial intelligence and solid mechanics. The architected structures I have studied include honeycombs, kiri/origamis, pixelated topologies, and acoustic black holes. To date, I have published 9 journal papers as the (co-)first author, with an additional 1 currently under review.
 
-          I have earned my bachelor's degree from Southwest Jiaotong University in 2021. I am a student in a successive postgraduate and doctoral program, and expect to receive my PhD in the summer of 2027.  My PhD thesis is **_Mechanics- and machine learning-driven customization of multifunctional metamaterials_**. Supervised by [Prof Qiang Han](https://www2.scut.edu.cn/jtxy/2023/0430/c35044a500284/page.htm) and [A/Prof Chunlei Li](https://www2.scut.edu.cn/jtxy/2023/0430/c35045a500283/page.htm). 
+          I have earned my bachelor's degree from Southwest Jiaotong University in 2021. I am a student in a successive postgraduate and doctoral program, and expect to receive my PhD in the summer of 2027.  My PhD thesis is **_Mechanics- and machine learning-driven customization of multifunctional metamaterials_** under the supervision of  [Prof Qiang Han](https://www2.scut.edu.cn/jtxy/2023/0430/c35044a500284/page.htm) and [A/Prof Chunlei Li](https://www2.scut.edu.cn/jtxy/2023/0430/c35045a500283/page.htm). 
 
-          If you have any questions, please email me (ct_hansihao@mail.scut.edu.cn). Please reach out to collaborate 😃 !!!
+          If you have any questions or are interested in collaborating, feel free to contact me at ct_hansihao@mail.scut.edu.cn. I look forward to connecting with you 😃 !!!
         </div>
     design:
       columns: '1'

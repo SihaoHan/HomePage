@@ -5,6 +5,11 @@ authors:
 - admin
 - Qiang Han
 - Chunlei Li*
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 date: "2024-01-01T00:00:00Z"
 doi: "10.1016/j.compstruct.2023.117670"
 publishDate: '2024-12-29T13:58:17.978958Z'
