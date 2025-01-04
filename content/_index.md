@@ -40,7 +40,7 @@ sections:
         <style>
           .custom-block {
             
-            margin: 0 -80px; /* 负外边距扩展超出容器 */
+            margin: 0 -120px; /* 负外边距扩展超出容器 */
             padding: 20px; /* 设置内边距 */
             background-color: #f9f9f9; /* 背景颜色 */
             border: 1px solid #ddd; /* 添加边框 */
