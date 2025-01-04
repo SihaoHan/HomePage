@@ -39,7 +39,7 @@ sections:
       text: |-
         <style>
           .custom-block {
-            font-size: 12pt;
+            font-size: 14pt;
             text-align: justify; /* 设置两端对齐 */
             margin: 0 -100px; /* 负外边距扩展超出容器 */
             padding: 20px; /* 设置内边距 */
