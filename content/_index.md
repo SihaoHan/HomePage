@@ -39,6 +39,7 @@ sections:
       text: |-
         <style>
           .custom-block {
+            width: 100%; /* 设置宽度为容器的 100% */
             margin: 0px; /* 设置外边距 */
             padding: 60px; /* 设置内边距 */
             background-color: #f9f9f9; /* 背景颜色 */
