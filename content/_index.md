@@ -39,7 +39,7 @@ sections:
       text: |-
         <style>
           .custom-block {
-            margin: 0px; /* 设置外边距 */
+            margin: 60px; /* 设置外边距 */
             padding: 0px; /* 设置内边距 */
             background-color: #f9f9f9; /* 背景颜色 */
             border: 1px solid #ddd; /* 添加边框 */
