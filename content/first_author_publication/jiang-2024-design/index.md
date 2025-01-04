@@ -2,13 +2,16 @@
 title: Design and optimization of the dual-functional lattice-origami metamaterials
 authors:
 - Tengjiao Jiang
-- "Equal contribution"
+# - "Equal contribution"
 - admin
-- "Equal contribution"
+# - "Equal contribution"
 - Qiang Han
 - Chunlei Li*
-# author_notes:
-# - "Equal contribution"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2024-01-01T00:00:00Z"
 doi: "10.1016/j.compstruct.2023.117670"
