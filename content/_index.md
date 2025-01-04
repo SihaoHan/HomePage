@@ -93,7 +93,7 @@ sections:
       filters:
         folders:
           - first_author_publication
-        exclude_featured: ture
+        exclude_featured: false
     design:
       view: citation
 
