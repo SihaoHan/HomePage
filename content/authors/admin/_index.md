@@ -153,6 +153,11 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Young Elite Scientists Sponsorship Doctoral Program
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2025-01-01'
+    awarder: China Association for Science and Technology
+
   - title: President Scholarship
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2024-10-01'
