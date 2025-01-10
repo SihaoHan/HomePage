@@ -112,7 +112,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Oral presentation
+      title: Oral presentations
       filters:
         folders:
           - Oral_presentations
