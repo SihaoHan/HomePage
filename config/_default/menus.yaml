@@ -15,10 +15,10 @@ main:
   #   weight: 30
   - name: Full Publications
     url: publication/
-    weight: 40
+    weight: 35
   - name: Oral presentations
     url: Oral_presentations/
-    weight: 30
+    weight: 40
   # - name: Projects
   #   url: projects/
   #   weight: 30
