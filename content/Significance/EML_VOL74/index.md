@@ -1,89 +1,86 @@
 ---
-title: 'Machine learning-aided prediction and customization on mechanical response and wave attenuation of multifunctional kiri/origami metamaterials'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
-authors:
-  - admin
-  - Chunlei Li*
-  - Qiang Han
-  - Xiaohu Yao  
-
-# Author notes (optional)
-author_notes:
-  # - 'Equal contribution'
-  # - 'Equal contribution'
-
-date: '2024-12-09T00:00:00Z'
-doi: '10.1016/j.eml.2024.102276'
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2025-01-01T00:00:00Z'
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['article-journal']
-
-# Publication name and optional abbreviated publication name.
-publication:  '*Extreme Mechanics Letters*'
-publication_short:  '*Extreme. Mech. Lett.*'
-
-abstract: Multifunctional materials attract extensive attention for simultaneously satisfying diverse engineering applications, such as protection against mechanical and vibratory intrusions. Here, the mechanical responses and wave attenuation of multi-functional metamaterials at various elastoplastic are custom-designed. An elegant kiri/origami metamaterial is proposed, offering widely tunable mechanical responses and broadband wave attenuation in ultra low-frequencies. The incomparable compression-twist of kresling origami and the prominent local-resonance of kirigami split-rings promote efficient elastic wave polarization and plastic hinges, providing comprehensive protection from elastic to plastic. Kirigami split-rings highlight a fabrication-friendly approach of forming local resonators. Experiments and analyses confirm the reliability and superiority. Leveraging a machine learning-aided framework, optimal and anticipated individual properties and custom multi-performances are achieved for wave attenuation, energy absorption, plateau fluctuations, deformation triggering forces, and load-bearing/plateau forces under various impact levels. The machine learning-aided framework enables rapid multi-objective prediction and customization end-to-end without requiring prior knowledge. This work holds significant potential for the development and application of multi-functional, multi-physical field and multi-scale metamaterials.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-  # - Large Language Models
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+title: 🎉 Congratulations on our work being Featured as a Cover Image by Extreme Mechanics Letters
+# summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+date: 2025-01-01
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: '@SihaoHan form SCUT'
-  focal_point: ''
-  preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
+authors:
+  - admin
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+
+tags:
+  # - Academic
+  # - Hugo Blox
+  # - Markdown
 ---
 
-<!-- {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+<!-- Welcome 👋
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}} -->
+{{< toc mobile_only=true is_open=true >}}
 
-<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+## Overview
+
+1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
+2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
+3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+
+[//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
+
+### Get Started
+
+- 👉 [**Create a new site**](https://hugoblox.com/templates/)
+- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
+- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
+- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
+- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+
+## Crowd-funded open-source software
+
+To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+
+### [❤️ Click here to become a sponsor and help support Hugo Blox's future ❤️](https://hugoblox.com/sponsor/)
+
+As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
+
+## Ecosystem
+
+- **[Bibtex To Markdown](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
+
+## Inspiration
+
+[Learn what other **creators**](https://hugoblox.com/creators/) are building with this template.
+
+## Features
+
+- **Page builder** - Create _anything_ with no-code [**blocks**](https://hugoblox.com/blocks/) and [**elements**](https://docs.hugoblox.com/reference/markdown/)
+- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
+- **Create content** in [**Markdown**](https://docs.hugoblox.com/reference/markdown/), [**Jupyter**](https://docs.hugoblox.com/getting-started/cms/), or [**RStudio**](https://docs.hugoblox.com/getting-started/cms/)
+- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/getting-started/customize/)
+- **Display Code and Math** - Code syntax highlighting and LaTeX math supported
+- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
+- **Beautiful Site** - Simple and refreshing one-page design
+- **Industry-Leading SEO** - Help get your website found on search engines and social media
+- **Media Galleries** - Display your images and videos with captions in a customizable gallery
+- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
+- **Multi-language** - 35+ language packs including English, 中文, and Português
+- **Multi-user** - Each author gets their own profile page
+- **Privacy Pack** - Assists with GDPR
+- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
+- **One-Click Deployment** - No servers. No databases. Only files.
+
+## Themes
+
+Hugo Blox and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
+
+[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
+
+## License
+
+Copyright 2016-present [George Cushen](https://georgecushen.com).
+
+Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license. -->
