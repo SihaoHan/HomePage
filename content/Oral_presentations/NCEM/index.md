@@ -1,7 +1,7 @@
 ---
 title: 14th National Conference on Explosion Mechanics
 
-event: the 14th National Conference on Explosion Mechanics
+event: The 14th National Conference on Explosion Mechanics
 # event_url: https://example.org
 
 location: Nanning, Guangxi Province, China

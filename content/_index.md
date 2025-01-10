@@ -110,7 +110,7 @@ sections:
   #     view: citation
 
   - block: collection
-    id: talks
+    id: presentations
     content:
       title: Oral presentations
       filters:

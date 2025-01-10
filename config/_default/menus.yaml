@@ -17,7 +17,7 @@ main:
     url: publication/
     weight: 35
   - name: Oral presentations
-    url: /#talks
+    url: /#presentations
     weight: 40
   # - name: Projects
   #   url: projects/
