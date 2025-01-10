@@ -1,5 +1,5 @@
 ---
-title: Oral_presentations
+title: Oral presentations
 cms_exclude: true
 #url: talk
 
