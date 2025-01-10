@@ -1,5 +1,5 @@
 ---
-title: Oral presentation
+title: 14th National Conference on Explosion Mechanics
 
 event: the 14th National Conference on Explosion Mechanics
 # event_url: https://example.org
