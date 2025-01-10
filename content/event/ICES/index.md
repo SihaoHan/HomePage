@@ -1,10 +1,10 @@
 ---
-title: The 14th National Conference on Explosion Mechanics
+title: The 1st International Conference on Engineering Structures
 
-event: The 14th National Conference on Explosion Mechanics
+event: The 1st International Conference on Engineering Structures
 # event_url: https://example.org
 
-location: Liyuan resort, Nanning, Guangxi Province, China
+location: Baiyun, Guangzhou, Guangdong Province, China
 
 # address:
 #   street: Liyuan resort
@@ -13,13 +13,13 @@ location: Liyuan resort, Nanning, Guangxi Province, China
 #   postcode: '530021'
 #   country: China
 
-summary: Negative Poisson ratio honeycomb multifunctional metamaterials.
-abstract: 'Due to the complexity of engineering applications, the demand for lightweight, high strength, impact resistance, vibration isolation and other protective materials is becoming increasingly prominent. In this study, we propose a new evolutionary pathway of cellular structure, which can be used to design multifunctional porous superstructures with excellent energy absorption and good bandgap properties. On the basis of the traditional concave honeycomb structure, the energy absorption capacity and vibration isolation performance of the superstructure can be effectively improved by introducing the arch structure and multi-level elements. At the same time, the introduction of local resonance elements further improves these two characteristics of the superstructure. Firstly, the elastic wave propagation characteristics of the superstructure under various evolution forms are systematically studied, and the generation mechanism and vibration isolation effect of the bandgap characteristics are revealed through modal and mode analysis. Secondly, the dynamic mechanical behavior of the superstructure is studied theoretically and numerically, and the deformation mode and energy absorption capacity of the superstructure under different impact velocities are analyzed. The results show that the proposed evolutionary approach can improve both the impact resistance and vibration isolation characteristics of the traditional concave honeycomb structure. The results of this study provide an effective way for the custom design and development of multi-functional porous protective materials and structures.'
+summary: Machine learning-aided customization on mechanical response and wave attenuation of multifunctional origami metamaterial.
+abstract: 'Multifunctional metamaterials attract extensive attention for simultaneously satisfying diverse engineering applications, such as protection against mechanical and vibratory intrusions. Here, the impact resistance and wave characteristics of multi-functional metamaterials based on the kresling origami are optimized and inversely designed. The elegant kresling origami metamaterials offer excellent energy absorption and broadband vibration isolations. The incomparable compression-twist of kresling origamis promote impact resistance and efficient elastic wave attenuation, providing comprehensive protection for crushing and vibration. With the help of a machine learning-aided framework, optimization and inverse design are achieved. The machine learning-aided framework enables rapid prediction and optimization. Experiments and numerical simulations confirm the reliability and superiority. This work holds significant potential for the development and application of multi-functional, multi-physical field and multi-scale metamaterials.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-11-19T09:10:00Z'
-date_end: '2023-11-19T09:20:00Z'
+date: '2024-11-09T14:40:00Z'
+date_end: '2024-11-09T14:55:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
