@@ -1,10 +1,10 @@
 ---
-title: Publications
-cms_exclude: ture
+title: Featured_publication
+cms_exclude: false
 
 # View.
 view: citation
-# count: 0
+
 # Optional header image (relative to `static/media/` folder).
 banner:
   caption: ''
