@@ -1,17 +1,17 @@
 ---
-title: 14th National Conference on Explosion Mechanics
+title: The 14th National Conference on Explosion Mechanics
 
 event: The 14th National Conference on Explosion Mechanics
 # event_url: https://example.org
 
-location: Nanning, Guangxi Province, China
+location: Liyuan resort, Nanning, Guangxi Province, China
 
-address:
-  street: Liyuan resort
-  city: Nanning
-  region: Guangxi Province
-  postcode: '530021'
-  country: China
+# address:
+#   street: Liyuan resort
+#   city: Nanning
+#   region: Guangxi Province
+#   postcode: '530021'
+#   country: China
 
 summary: Negative Poisson ratio honeycomb multifunctional metamaterials.
 abstract: 'The topic of the presentation is about negative Poisson ratio honeycomb multifunctional metamaterials. Especially with regard to vibration isolation and energy absorption.'
