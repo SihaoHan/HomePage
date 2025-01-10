@@ -115,7 +115,7 @@ sections:
       title: Oral presentations
       filters:
         folders:
-          - Oral_presentations
+          - event
     design:
       view: article-grid
       columns: 1
